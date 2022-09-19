@@ -1,0 +1,6 @@
+name: sentence-splitter
+dependencies:
+  - conda-forge::cupy=11
+  -              python=3.10
+  - conda-forge::spacy=3
+  -              tqdm=4
